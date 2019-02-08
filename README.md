@@ -5,7 +5,7 @@ Designed and Implemented a E-R model consisting of Student,
 Course,Department,Instructor and Programme into a database.
 
 ##The ER Model taken
-
+![screenshot 166](https://user-images.githubusercontent.com/47445363/52476080-63038b00-2b52-11e9-9574-93daa4405e70.png)
 
 front page(front.php)
 ![screenshot 51](https://user-images.githubusercontent.com/47445363/52475398-39496480-2b50-11e9-8c48-196e0043c166.png)
